@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool:
-  my-agent
+  Azure Pipelines
 
 steps:
 - task: Maven@3
